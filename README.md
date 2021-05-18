@@ -9,5 +9,13 @@ you can edit .mcfunction files by using an appropiate editor such as visual stud
 
 This datapack was made to be used on my personal realm, however, note that this pack is akward to use on realms because (currently) if you want to add more boxes you will have to download a backup of the world and reupload the world with the new eidited version of the datapack. (unless you link the datapack with a fork of this repo maybe??? then realms might realize if you make a change to it on github? IDK if that works or not)
 
+to remove all my packs the from inside the game run
+/function #hammeylicksmath:uninstall
+
+to remove only adventure boundairies from inside the game run
+/function advb:uninstall
+
+to add them all back just run /reload
+
 - specical thanks to vanillatweaks.net (I copied and modified the way they set up their datapacks to make this)
 - and minecraft-heads.com (I used it to make custom heads for the pack)
