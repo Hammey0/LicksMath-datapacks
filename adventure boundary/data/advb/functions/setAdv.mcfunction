@@ -1,1 +1,0 @@
-execute run gamemode adventure @a[scores={inBounds=1..},gamemode=!creative,gamemode=!spectator]
