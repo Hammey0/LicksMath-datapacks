@@ -1,0 +1,1 @@
+scoreboard players set @a[x=295,y=0,z=163,dx=-82,dy=260,dz=58] inBounds 1
